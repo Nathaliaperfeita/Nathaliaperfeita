@@ -10,4 +10,4 @@ Utilizo a plataforma Alura(https://media1.tenor.com/m/TmJWz4ZkSfQAAAAC/claire-da
 
 braz.ribeiro@escola.pr.gov;br
 
-![]gif(https://media1.tenor.com/m/TmJWz4ZkSfQAAAAC/claire-dancing.gif)
+![](https://media1.tenor.com/m/TmJWz4ZkSfQAAAAC/claire-dancing.gif)
